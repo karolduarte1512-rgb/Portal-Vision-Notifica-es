@@ -6,7 +6,7 @@
   "kv_namespaces": [
     {
       "binding": "SUBSCRIPTIONS",
-      "id": "COLE_AQUI_O_ID_DO_KV"
+      "id": "portal-vision-push-subcriptions"
     }
   ]
 }
